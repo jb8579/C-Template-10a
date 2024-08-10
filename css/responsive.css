@@ -452,10 +452,11 @@
 	}
 
 	.trust-description > p {
-		font-size: 12px;
+		font-size: 10px;
 		font-weight: 400;
 		word-spacing: 0px;
 		letter-spacing: 0px;
+		padding: 0px !important;
 	}
 
 	.trust-content {
